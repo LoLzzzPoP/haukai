@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Haukai Restaurant Drinks Menu page</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='https://fonts.googleapis.com/css?family=Italiana|Prompt' rel='stylesheet'>
+<link rel='stylesheet' type='text/css' href='../styles/default.css'>
+<link rel='stylesheet' type='text/css' href='../styles/map.css'>
+<script src='../scripts/menunav.js'></script>
+</head>
+<body>
+
+<!-- The overlay -->
+<div id="myNav" class="overlay">
+
+  <!-- Button to close the overlay navigation -->
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+  <!-- Overlay content -->
+  <div class="overlay-content">
+    <a href="../menu/menu.html">Dinner Menu</a>
+    <a href="../drinks/drinks.html">Drinks Menu</a>
+    <a href="../hours/hours.html">Hours</a>
+    <a href="../reservations/reservations.html">Reservations</a>
+    <a href="../contact/contact.html">Contact</a>
+    <a href="../index.html">Home</a>
+  </div>
+
+</div>
+<div class="header" style=z-index:1>
+  <h1>&emsp;꧁THE HAUKAI꧂
+
+<div style="float: right;">
+
+<!-- Use any to open/show the overlay navigation menu -->
+<span class="openbtn" style="font-size:60px;cursor:pointer; padding: 20px; vertical-align: 50%;" 
+onclick="openNav()">&#9776; </span>
+</h1>
+<div>
+  <h2><em>Traditional Maori Cuisine&emsp;&emsp;</em></h2>
+<div class="main"> 
+
+<div class="container">
+  <div style="text-align:center">
+    <h3>DRINKS MENU</h3>
+
+    <h4>WHITE WINE</h4>
+    <span  class="center"><img src="../images/whitewine.jpeg" 
+      alt="photo of glass of white wine"
+      style="max-width: 100%"/></span>
+    <br>
+    <p>Terrace Edge Pinot Noir, 2012, Wairarapa 53/13</p>
+    <p>Altitude Pinot Noir, 2010, Marlborough 64/15</p>
+    <p>Greystone Pinot Noir, 2012, Wairarapa 73/17</p>
+    <p>Terrace Edge, Syrah, 2012 Wairarapa 53/13</p>
+    <p>Altitude Syrah, 2010 Marlborough 64/15</p>
+    <p>Greystone Syrah, 2012, Wairarapa 73/17</p>
+    <p>Pegasus Bay Merlot, 2013, Waipara 65/14</p>
+    <p>Pegasus Bay Merlot, 2013, Waipara 65/14</p>
+    <p>Pegasus Bay Pinot Noir, 2013, Waipara 110</p>
+    <br>
+
+    <h4>RED WINE</h4>
+    <span  class="center"><img src="../images/redwine.jpeg" 
+      alt="photo of red pouring into wine glass"
+      style="max-width: 100%"/></span>
+    <br>
+    <p>Spade Oak Pinot Gris, 2011, Gisborne 40/10</p>
+    <p>Maude Pinot Gris, 2017, Otago 49.50/11</p>
+    <p>Charles Wiffen Chardonnay, 2013, Otago 48/11</p>
+    <p>Amisfield, Riesling, 2016, Otago 53/12</p>
+    <p>Lamont Riesling, 2010, Otago 57/13</p>
+    <p>Elephant Hill Viognier, 2013, Hawkes Bay 55/12</p>
+    <p>Folium Sauvignon Blanc, 2011, Marlborough 52/11</p>
+    <p>Billecart-Salmon Brut Reserve, France 120</p>
+    <br>
+
+    <h4>BEER & CIDER</h4>
+    <span  class="center"><img src="../images/beer.jpeg" 
+      alt="photo of glass of beer on top of a barrel amongst more barrels"
+      style="max-width: 100%"/></span>
+    <br>
+    <p>Garage project range 11</p>
+    <p>Tuatara range 11</p>
+    <p>Panhead range 10</p>
+    <p>Coopers Ale 10</p>
+    <p>Heineken 11</p>
+    <p>Moa Cider 10</p>
+    <p>Crooked Cider 10</p>
+    <br>
+
+    <h4>NON-ALCOHOLIC</h4>
+    <span  class="center"><img src="../images/coffee.jpeg" 
+      alt="photo of coffee cup art"
+      style="max-width: 100%"/></span>
+    <br>
+    <p>Mineral water 4</p>
+    <p>Soft drinks 4</p>
+    <p>Juice 4</p>
+    <p>Coffee 4</p>
+    <p>Tea 3.50</p>
+
+</div>
+</div>
+</div>
+<div class="footernav">
+  <a href="../privacy/privacy.html" style="width:100%">Privacy Policy</a>
+</div>
+
+</body>
+</html>
