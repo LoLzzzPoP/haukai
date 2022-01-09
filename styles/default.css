@@ -19,37 +19,37 @@ body {
   color: white;  
 }
 
-/* Increase the font size of the heading */
-.header h1 {
-  font-size: 3vw;
-  font-family: Italiana;
-  color: red;
-}
+  /* Increase the font size of the heading */
+  .header h1 {
+    font-size: 4vw;
+    font-family: Italiana;
+    color: red;
+  }
 
-/* font colour gold */
-.header h2 {
-  font-size: 2.5vw;
-  font-family: Italiana;
-  color: white;
-}
+  /* font colour gold */
+  .header h2 {
+    font-size: 3.5vw;
+    font-family: Italiana;
+    color: white;
+  }
 
-.header h3 {
-  font-size: 2.5vw;
-  font-family: Prompt;
-  color: white;
-}
+  .header h3 {
+    font-size: 3.5vw;
+    font-family: Prompt;
+    color: white;
+  }
 
-.header h4 {
-  font-size: 2vw;
-  font-family: Italiana;
-  color: red;
-}
+  .header h4 {
+    font-size: 3vw;
+    font-family: Italiana;
+    color: red;
+  }
 
-.header h5 {
-  font-size: 2vw;
-  font-family: Prompt;
-  color: white;
-}
+  .header h5 {
+    font-size: 3vw;
+    font-family: Prompt;
+    color: white;
+  }
 
 p, i {
   font-size: 2vw;
