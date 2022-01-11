@@ -58,6 +58,10 @@ p, i {
   color: white;
 }
 
+img {
+  max-width: 100%;
+}
+
 .openbtn {
   position: fixed;
   top: 5px;
@@ -67,7 +71,6 @@ p, i {
   padding: 1.5vw; 
   vertical-align: 50%;
   float: right;
-  
   }
 
 /* --------------------------------------------------------------------------------------------- */
